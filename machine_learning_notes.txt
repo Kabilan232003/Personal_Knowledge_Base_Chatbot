@@ -1,0 +1,17 @@
+
+Machine Learning Notes
+
+Machine learning is a branch of artificial intelligence
+that enables computers to learn patterns from data.
+
+Supervised learning uses labelled data. Examples include
+linear regression, logistic regression, and decision trees.
+
+Unsupervised learning uses unlabelled data. Examples include
+K-means clustering and hierarchical clustering.
+
+Classification predicts categories, while regression predicts
+numerical values.
+
+Applications include fraud detection, recommendation systems,
+image recognition, and customer segmentation.
